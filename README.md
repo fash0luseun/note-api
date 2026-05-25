@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notes API
 
 A REST API for managing notes, built with FastAPI (Python).
@@ -67,3 +68,6 @@ curl -X DELETE http://localhost:8000/notes/{note_id}
 | `search`  | —           | Search in title and body             |
 | `sort_by` | created_at  | Sort by: created_at, updated_at, title |
 | `order`   | desc        | Sort order: asc or desc              |
+=======
+# note-api
+>>>>>>> 66c9cc5385229b9465605541c90a5122e20ca8f2
